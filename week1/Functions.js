@@ -62,7 +62,7 @@ console.log(`Call to doSomething took ${t1 - t0} milliseconds.`);
 // }, 1000);
 
 
-/*
+
 console.log("Create a terminal clock (HH:MM:SS)");
 
 var hh = 0;
@@ -86,4 +86,3 @@ setInterval(() => {
     }
   }
 }, 1000);
-*/
